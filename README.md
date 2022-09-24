@@ -7,7 +7,7 @@
 > PT-BR
 <p>Desafio construído após o evento Next Level Week da Rocketseat, para reforçar os conhecimentos do evento.</p>
 
-[Acesse aqui!](https://rafacelos.github.io/NextLevel)
+[Acesse aqui!](https://github.com/rafacelos/NextLevelMovies/)
 
 ### 🦾Tecnologias:
 - HTML
@@ -17,9 +17,9 @@
 ------------------
 
 > EN-US
-<p>Challenge developed at Rocketseat's Next Level Week event.</p>
+<p>Challenge developed after the Rocketseat's Next Level Week event, To reinforce the knowledge learned.</p>
 
-[Link here!](https://rafacelos.github.io/NextLevel)
+[Link here!](https://github.com/rafacelos/NextLevelMovies/)
 
 ### 🦾Technologies:
 - HTML
