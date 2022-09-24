@@ -1,13 +1,15 @@
 # 🎥 NextLevelMovies
 <p>Social platform for movie lovers.</p>
 
+<a targe="_blank" href="https://rafacelos.github.io/NextLevelMovies/"> Acesse já o projeto!!</a>
+
 ![preview](./.github/preview.png)
 
 --------------------
 > PT-BR
 <p>Desafio construído após o evento Next Level Week da Rocketseat, para reforçar os conhecimentos do evento.</p>
 
-[Acesse aqui!](https://github.com/rafacelos/NextLevelMovies/)
+[Git link aqui!](https://github.com/rafacelos/NextLevelMovies/)
 
 ### 🦾Tecnologias:
 - HTML
@@ -20,7 +22,9 @@
 > EN-US
 <p>Challenge developed after the Rocketseat's Next Level Week event, To reinforce the knowledge learned.</p>
 
-[Link here!](https://github.com/rafacelos/NextLevelMovies/)
+<a targe="_blank" href="https://rafacelos.github.io/NextLevelMovies/"> Access the project here!</a>
+
+[Git Link here!](https://github.com/rafacelos/NextLevelMovies/)
 
 ### 🦾Technologies:
 - HTML
@@ -31,4 +35,4 @@
 
 ## ✉️ Contact:
 <rafa.celos.dev@gmail.com></br>
-<a href="www.linkedin.com/in/rafaeloliveiradev"> Linkedin </a>
+<a target="_blank" href="https://www.linkedin.com/in/rafaeloliveiradev"> Linkedin </a>
