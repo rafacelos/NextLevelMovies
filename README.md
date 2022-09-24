@@ -12,6 +12,7 @@
 ### 🦾Tecnologias:
 - HTML
 - CSS
+- Swiper (Touch Slider)
 - GIT e Github
 
 ------------------
@@ -24,6 +25,7 @@
 ### 🦾Technologies:
 - HTML
 - CSS
+- Swiper (Touch Slider)
 - GIT and Github
 ------------------
 
