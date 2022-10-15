@@ -20,6 +20,8 @@
 
 [Git Link here!](https://github.com/rafacelos/NextLevelMovies/)
 
+------------------
+
 ### 🦾Technologies:
 - HTML
 - CSS
