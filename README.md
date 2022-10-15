@@ -11,12 +11,6 @@
 
 [Git link aqui!](https://github.com/rafacelos/NextLevelMovies/)
 
-### 🦾Tecnologias:
-- HTML
-- CSS
-- Swiper (Touch Slider)
-- GIT e Github
-
 ------------------
 
 > EN-US
@@ -29,7 +23,7 @@
 ### 🦾Technologies:
 - HTML
 - CSS
-- Swiper (Touch Slider)
+- JS - Swiper (Touch Slider)
 - GIT and Github
 ------------------
 
